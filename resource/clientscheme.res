@@ -3187,6 +3187,36 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		
+		CodeLight
+		{
+			"1"
+			{
+				"name"		"Code-Light"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		CodeBold
+		{
+			"1"
+			{
+				"name"		"Code-Bold"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		BebasNeue
+		{
+			"1"
+			{
+				"name"		"BebasNeue"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
 	}
 	
 	///////////////// Section for custom fonts. ///////////////
@@ -5110,6 +5140,24 @@ Scheme
 		{
 			"font" "resource/fonts/Comfortaa-Regular.ttf"
 			"name" "Comfortaa"
+		}
+		
+		"10"
+		{
+			"font" "resource/fonts/CODE Light.otf"
+			"name" "Code-Light"
+		}
+		
+		"11"
+		{
+			"font" "resource/fonts/CODE Bold.otf"
+			"name" "Code-Bold"
+		}
+		
+		"12"
+		{
+			"font" "resource/fonts/BebasNeue.otf"
+			"name" "BebasNeue"
 		}
 	}	
 }
