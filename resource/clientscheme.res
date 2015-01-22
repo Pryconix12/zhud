@@ -18,6 +18,10 @@ Scheme
 	//////////////////////// COLORS ///////////////////////////
 	Colors
 	{
+		// zhud colors
+		"ZHUD_White"		"255 255 255 255"
+		"ZHUD_Black"		"0 0 0 255"
+		
 		// base colors
 		"Orange"			"178 82 22 255"
 		"OrangeDim"			"178 82 22 120"
@@ -2398,6 +2402,8 @@ Scheme
 		
 		/////////////////// Custom fonts in zhud ///////////////////
 		
+		/// Comfortaa Regular
+		
 		ComfortaaRegular10
 		{
 			"1"
@@ -2658,15 +2664,7 @@ Scheme
 			}
 		}
 		
-				ComfortaaBold10
-		{
-			"1"
-			{
-				"name"		"Comfortaa Bold"
-				"tall"		"10"
-				"antialias" "1"
-			}
-		}
+		/// Comfortaa Bold
 		
 		ComfortaaBold10
 		{
@@ -2928,6 +2926,8 @@ Scheme
 			}
 		}
 		
+		/// Comfortaa Light
+		
 		ComfortaaLight10
 		{
 			"1"
@@ -3188,32 +3188,264 @@ Scheme
 			}
 		}
 		
-		CodeLight
+		// Bebas Neue
+		
+		BebasNeue10
 		{
 			"1"
 			{
-				"name"		"Code-Light"
-				"tall"		"16"
+				"name"		"Comfortaa Light"
+				"tall"		"10"
 				"antialias" "1"
 			}
 		}
 		
-		CodeBold
+		BebasNeue11
 		{
 			"1"
 			{
-				"name"		"Code-Bold"
-				"tall"		"16"
+				"name"		"BebasNeue"
+				"tall"		"11"
 				"antialias" "1"
 			}
 		}
 		
-		BebasNeue
+		BebasNeue12
+		{
+			"1"
+			{
+				"name"		"BebasNeue"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		BebasNeue14
+		{
+			"1"
+			{
+				"name"		"BebasNeue"
+				"tall"		"14"
+				"antialias" "1"
+			}
+		}
+		
+		BebasNeue16
 		{
 			"1"
 			{
 				"name"		"BebasNeue"
 				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+
+		BebasNeue18
+		{
+			"1"
+			{
+				"name"		"BebasNeue"
+				"tall"		"18"
+				"antialias" "1"
+			}
+		}
+		
+		BebasNeue20
+		{
+			"1"
+			{
+				"name"		"BebasNeue"
+				"tall"		"20"
+				"antialias" "1"
+			}
+		}
+		
+		BebasNeue22
+		{
+			"1"
+			{
+				"name"		"BebasNeue"
+				"tall"		"22"
+				"antialias" "1"
+			}
+		}
+		
+		BebasNeue24
+		{
+			"1"
+			{
+				"name"		"BebasNeue"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		BebasNeue26
+		{
+			"1"
+			{
+				"name"		"BebasNeue"
+				"tall"		"26"
+				"antialias" "1"
+			}
+		}
+		
+		BebasNeue28
+		{
+			"1"
+			{
+				"name"		"BebasNeue"
+				"tall"		"28"
+				"antialias" "1"
+			}
+		}
+		
+		BebasNeue30
+		{
+			"1"
+			{
+				"name"		"BebasNeue"
+				"tall"		"30"
+				"antialias" "1"
+			}
+		}
+		
+		BebasNeue32
+		{
+			"1"
+			{
+				"name"		"BebasNeue"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		BebasNeue34
+		{
+			"1"
+			{
+				"name"		"BebasNeue"
+				"tall"		"34"
+				"antialias" "1"
+			}
+		}
+		
+		BebasNeue36
+		{
+			"1"
+			{
+				"name"		"BebasNeue"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		
+		BebasNeue38
+		{
+			"1"
+			{
+				"name"		"BebasNeue"
+				"tall"		"38"
+				"antialias" "1"
+			}
+		}
+		
+		BebasNeue40
+		{
+			"1"
+			{
+				"name"		"BebasNeue"
+				"tall"		"40"
+				"antialias" "1"
+			}
+		}
+		
+		BebasNeue42
+		{
+			"1"
+			{
+				"name"		"BebasNeue"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		
+		BebasNeue44
+		{
+			"1"
+			{
+				"name"		"BebasNeue"
+				"tall"		"44"
+				"antialias" "1"
+			}
+		}
+		
+		BebasNeue48
+		{
+			"1"
+			{
+				"name"		"BebasNeue"
+				"tall"		"46"
+				"antialias" "1"
+			}
+		}
+		
+		BebasNeue50
+		{
+			"1"
+			{
+				"name"		"BebasNeue"
+				"tall"		"50"
+				"antialias" "1"
+			}
+		}
+		
+		BebasNeue52
+		{
+			"1"
+			{
+				"name"		"BebasNeue"
+				"tall"		"52"
+				"antialias" "1"
+			}
+		}
+		
+		BebasNeue54
+		{
+			"1"
+			{
+				"name"		"BebasNeue"
+				"tall"		"54"
+				"antialias" "1"
+			}
+		}
+		
+		BebasNeue56
+		{
+			"1"
+			{
+				"name"		"BebasNeue"
+				"tall"		"56"
+				"antialias" "1"
+			}
+		}
+		
+		BebasNeue58
+		{
+			"1"
+			{
+				"name"		"BebasNeue"
+				"tall"		"58"
+				"antialias" "1"
+			}
+		}
+		
+		BebasNeue60
+		{
+			"1"
+			{
+				"name"		"BebasNeue"
+				"tall"		"60"
 				"antialias" "1"
 			}
 		}
@@ -5141,23 +5373,15 @@ Scheme
 			"font" "resource/fonts/Comfortaa-Regular.ttf"
 			"name" "Comfortaa"
 		}
-		
 		"10"
-		{
-			"font" "resource/fonts/CODE Light.otf"
-			"name" "Code-Light"
-		}
-		
-		"11"
-		{
-			"font" "resource/fonts/CODE Bold.otf"
-			"name" "Code-Bold"
-		}
-		
-		"12"
 		{
 			"font" "resource/fonts/BebasNeue.otf"
 			"name" "BebasNeue"
+		}
+		"11"
+		{
+			"font" "resource/fonts/criticized.ttf"
+			"name" "Criticized"
 		}
 	}	
 }
