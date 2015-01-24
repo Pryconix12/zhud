@@ -30,6 +30,7 @@ Scheme
 		"ZHUD_LowHealth2"	"128 0 0 255"
 		"ZHUD_LowAmmo1"		"91 91 91 255"
 		"ZHUD_Damage"		"255 0 102 255"
+		"ZHUD_Scoreboard"	"227 227 236 100"
 		
 		// base colors
 		"Orange"			"178 82 22 255"
