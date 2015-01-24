@@ -22,11 +22,14 @@ Scheme
 		"ZHUD_White"		"227 227 236 255"
 		"ZHUD_Black"		"0 0 0 255"
 		"ZHUD_Red"			"255 0 0 255"
+		"ZHUD_LightBlue"	"0 171 255 255"
+		"ZHUD_LightRed"		"255 51 51 255"
 		"ZHUD_Shadow"		"23 23 23 255"
 		"ZHUD_Buffed"		"0 255 127 255"
 		"ZHUD_LowHealth1"	"165 42 42 255"
 		"ZHUD_LowHealth2"	"128 0 0 255"
 		"ZHUD_LowAmmo1"		"91 91 91 255"
+		"ZHUD_Damage"		"255 0 102 255"
 		
 		// base colors
 		"Orange"			"178 82 22 255"
@@ -444,61 +447,45 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Comfortaa Bold"
 				"tall"		"12"
-				"weight"	"900"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"	"480 599"
+				"antialias" "1"
 			}
 			"2"
 			{
-				"name"		"Verdana"
-				"tall"		"13"	[$WIN32]
-				"tall"		"20"	[$X360]
-				"weight"	"900"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"	"600 767"
+				"name"		"Comfortaa Bold"
+				"tall"		"12"
+				"antialias" "1"
 			}
 			"3"
 			{
-				"name"		"Verdana"
-				"tall"		"14"
-				"weight"	"900"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"	"768 1023"
-				"antialias"	"1"
+				"name"		"Comfortaa Bold"
+				"tall"		"12"
+				"antialias" "1"
 			}
 			"4"
 			{
-				"name"		"Verdana"
-				"tall"		"20"
-				"weight"	"900"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"	"1024 1199"
-				"antialias"	"1"
+				"name"		"Comfortaa Bold"
+				"tall"		"12"
+				"antialias" "1"
 			}
 			"5"
 			{
-				"name"		"Verdana"
-				"tall"		"24"
-				"weight"	"900"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"	"1200 6000"
-				"antialias"	"1"
+				"name"		"Comfortaa Bold"
+				"tall"		"12"
+				"antialias" "1"
 			}
 			"6"
 			{
-				"name"		"Verdana"
+				"name"		"Comfortaa Bold"
 				"tall"		"12"
-				"range" 		"0x0000 0x00FF"
-				"weight"		"900"
+				"antialias" "1"
 			}
 			"7"
 			{
-				"name"		"Arial"
+				"name"		"Comfortaa Bold"
 				"tall"		"12"
-				"range" 		"0x0000 0x00FF"
-				"weight"		"800"
+				"antialias" "1"
 			}
 
 			
@@ -700,7 +687,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Comfortaa Bold"
 				"tall"		"6"
 				"weight"	"500"
 				"additive"	"0"
@@ -5383,11 +5370,6 @@ Scheme
 		{
 			"font" "resource/fonts/BebasNeue.otf"
 			"name" "BebasNeue"
-		}
-		"11"
-		{
-			"font" "resource/fonts/criticized.ttf"
-			"name" "Criticized"
 		}
 	}	
 }

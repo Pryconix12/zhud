@@ -22,7 +22,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"HudWeaponLowAmmoImage"
-		"xpos"			"4"
+		"xpos"			"99999"
 		"ypos"			"0"
 		"zpos"			"0"
 		"wide"			"0"
