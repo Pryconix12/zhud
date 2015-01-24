@@ -71,12 +71,12 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
 		"font"			"BebasNeue56"
-		"fgcolor"		"255 255 255 255"
+		"fgcolor"		"ZHUD_White"
 	}								
 	"PlayerStatusHealthValueBG"
 	{
 		"ControlName"	"CExLabel"
-		"fieldName"		"PlayerStatusHealthValue"
+		"fieldName"		"PlayerStatusHealthValueBG"
 		"xpos"			"77"
 		"ypos"			"49"
 		"zpos"			"4"
@@ -87,7 +87,7 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
 		"font"			"BebasNeue56"
-		"fgcolor"		"0 0 0 255"
+		"fgcolor"		"ZHUD_Shadow"
 	}								
 	"PlayerStatusBleedImage"
 	{

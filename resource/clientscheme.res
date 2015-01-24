@@ -19,8 +19,14 @@ Scheme
 	Colors
 	{
 		// zhud colors
-		"ZHUD_White"		"255 255 255 255"
+		"ZHUD_White"		"227 227 236 255"
 		"ZHUD_Black"		"0 0 0 255"
+		"ZHUD_Red"			"255 0 0 255"
+		"ZHUD_Shadow"		"23 23 23 255"
+		"ZHUD_Buffed"		"0 255 127 255"
+		"ZHUD_LowHealth1"	"165 42 42 255"
+		"ZHUD_LowHealth2"	"128 0 0 255"
+		"ZHUD_LowAmmo1"		"91 91 91 255"
 		
 		// base colors
 		"Orange"			"178 82 22 255"
