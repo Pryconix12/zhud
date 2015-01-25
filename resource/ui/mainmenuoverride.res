@@ -353,7 +353,7 @@
 		"font"			"BebasNeue48"
 		"labelText"		"zhud"
 		"textAlignment"	"west"
-		"xpos"			"32"
+		"xpos"			"45"
 		"ypos"			"62"
 		"wide"			"130"
 		"tall"			"30"
