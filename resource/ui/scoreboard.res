@@ -156,7 +156,7 @@
 		"zpos"			"-2"
 		"wide"			"456"
 		"tall"			"240"
-		"fillcolor"		"ZHUD_Scoreboard"
+		"fillcolor"		"0 0 0 150"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"

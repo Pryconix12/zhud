@@ -315,7 +315,7 @@
 			"ControlName"	"CExLabel"
 			"fieldName"		"ItemLabel"
 			"font"			"ComfortaaRegular12"
-			"fgcolor"		"OmpText"
+			"fgcolor"		"ZHUD_White"
 			"xpos"			"5"
 			"ypos"			"5"
 			"zpos"			"1"
