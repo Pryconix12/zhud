@@ -3443,21 +3443,6 @@ Scheme
 				"antialias" "1"
 			}
 		}
-		
-		// Crosshairs
-		
-		Seekers Crosshair
-		{
-			"1"
-			{
-				"name"		"tf2cross"
-				"tall"		"11"
-				"weight"	"0"
-				"antialias"	"1"
-				"additive"	"0"
-				"outline"	"0"
-			}
-		}
 	}
 	
 	///////////////// Section for custom fonts. ///////////////
