@@ -37,6 +37,10 @@
 	}
 	
 	
+	//////////////////////// END OF CROSSHAIR EDITING ///////////////////////////
+	
+	
+	
 	HudPlayerStatus
 	{
 		"fieldName" "HudPlayerStatus"
@@ -81,10 +85,8 @@
 		"tall"	"160"
 		
 		"blue_active_xpos"			"16"
-		"blue_active_xpos_minmode"	"55"
 	
 		"red_active_xpos"			"106"
-		"red_active_xpos_minmode"	"105"
 	}	
 
 	HudItemEffectMeter
@@ -106,7 +108,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c-105"	
-		"ypos"			"c60"	
+		"ypos"			"c7"	
 		"wide"			"f0"
 		"tall"			"f0"
 	}
