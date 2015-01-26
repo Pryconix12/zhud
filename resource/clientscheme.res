@@ -3443,10 +3443,31 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		
+		"Crosshair"
+		{
+			"1"
+			{
+				"name"		"Crosshairs Regular"
+				"tall"		"28"
+				"additive"	"0"
+				"antialias"	"1"
+			}
+		}
+		
+		"CrossHairNormal" // Seeker's Crosshair
+		{
+			"1"
+			{
+				"name"    "tf2cross"
+				"tall"    "11"
+				"weight"  "0"
+				"antialias"  "1"
+				"additive"  "0"
+				"outline"   "0"
+			}
+		}
 	}
-	
-	///////////////// Section for custom fonts. ///////////////
-
 	
 	
 	//
@@ -5376,6 +5397,11 @@ Scheme
 		{
 			"font" "resource/tf2cross.ttf"
 			"name" "tf2cross"
+		}
+		"12"
+		{
+			"font" "resource/fonts/Crosshairs.ttf"
+			"name" "Crosshairs Regular"
 		}
 	}	
 }

@@ -1,12 +1,13 @@
 "Resource/HudLayout.res"
 {
 	//Crosshair
-	CrossHairNormal
+	
+	CrossHairNormal 				// Seeker's Crosshair
 	{	
 		"controlName"  "CExLabel"
 		"fieldName"     "CrossHairNormal"
 		"visible"    "0"
-		"enabled"    "0"
+		"enabled"    "1"
 		"zpos"      "1"
 		"xpos"      "c-14"
 		"ypos"      "c-12"
@@ -14,25 +15,25 @@
 		"tall"      "24"
 		"font"      "CrossHairNormal"
 		"labelText"    "x"
-		"fgcolor"    "92 206 255 255"
+		"fgcolor"    "92 206 255 255" // rgbcolor value
 		"textAlignment"  "center"
 	}
 	Crosshair
 	{
-		"controlName"		"CExLabel"
+		"controlName"		"CExLabel"			// Fog's Crosshairs
 		"fieldName"			"Crosshair"
 		"visible"			"0"
-		"enabled"			"0"
+		"enabled"			"1"
 		"visible_minmode"	"1"
 		"enabled_minmode"	"1"
-		"xpos"				"0"			//Play around with x and y until it's centered
-		"ypos"				"3"			//Not all crosshairs/resolutions have the same placement
+		"xpos"				"2"			//Play around with x and y until it's centered
+		"ypos"				"2"			//Not all crosshairs/resolutions have the same placement
 		"zpos"				"0"
 		"wide"				"f0"
 		"tall"				"f0"
 		"font"				"Crosshair"
-		"labelText"			"d"			//Refer to resource/fonts/crosshairs.png for crosshairs
-		"fgcolor"			"CrosshairColor"
+		"labelText"			"0"			//Refer to crosshairs.png for crosshairs
+		"fgcolor"			"255 255 255 255" // rgbcolor value
 		"textAlignment"		"center"
 	}
 	
