@@ -198,7 +198,7 @@
 			"tabPosition"	"0"
 			"labelText"		"%activepipes%"
 			"textAlignment"	"west"
-			"font"			"BebasNeue"
+			"font"			"BebasNeue30"
 			"fgcolor"		"ZHUD_Shadow"
 		}			
 	}				
