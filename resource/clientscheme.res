@@ -31,6 +31,7 @@ Scheme
 		"ZHUD_LowAmmo1"		"91 91 91 255"
 		"ZHUD_Damage"		"255 0 102 255"
 		"ZHUD_Scoreboard"	"227 227 236 100"
+		"ZHUD_Personal"		"92 206 255 255"
 		
 		// base colors
 		"Orange"			"178 82 22 255"

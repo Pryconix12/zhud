@@ -15,7 +15,7 @@
 		"tall"      "24"
 		"font"      "CrossHairNormal"
 		"labelText"    "x"
-		"fgcolor"    "92 206 255 255" // rgbcolor value
+		"fgcolor"    "ZHUD_White" // rgbcolor value
 		"textAlignment"  "center"
 	}
 	Crosshair
@@ -26,14 +26,14 @@
 		"enabled"			"1"
 		"visible_minmode"	"1"
 		"enabled_minmode"	"1"
-		"xpos"				"2"			//Play around with x and y until it's centered
-		"ypos"				"2"			//Not all crosshairs/resolutions have the same placement
+		"xpos"				"1"			//Play around with x and y until it's centered
+		"ypos"				"0"			//Not all crosshairs/resolutions have the same placement
 		"zpos"				"0"
 		"wide"				"f0"
 		"tall"				"f0"
 		"font"				"Crosshair"
-		"labelText"			"0"			//Refer to crosshairs.png for crosshairs
-		"fgcolor"			"255 255 255 255" // rgbcolor value
+		"labelText"			"p"			//Refer to crosshairs.png for crosshairs
+		"fgcolor"			"ZHUD_White" // rgbcolor value //92 206 255 255
 		"textAlignment"		"center"
 	}
 	
@@ -124,7 +124,7 @@
 		"zpos"			"1"			// draw in front of ammo
 		"wide"			"250"
 		"tall"			"150"
-		"MeterFG"		"White"
+		"MeterFG"		"ZHUD_White"
 		"MeterBG"		"Gray"
 	}	
 
@@ -209,8 +209,8 @@
 	CHudAccountPanel
 	{
 		"fieldName"				"CHudAccountPanel"
-		"xpos"					"c-45"
-		"ypos"					"c20"
+		"xpos"					"c-48"
+		"ypos"					"c-5"
 		"wide"					"116"
 		"tall"  				"180"
 		"visible" 				"1"
@@ -221,9 +221,9 @@
 	CHealthAccountPanel
 	{
 		"fieldName"				"CHealthAccountPanel"
-		"xpos"					"76"
+		"xpos"					"c-135"
 		"xpos_minmode"			"61"
-		"ypos"					"r152"
+		"ypos"					"r240"
 		"ypos_minmode"			"r134"
 		"wide"					"116"
 		"tall"  				"180"
@@ -844,7 +844,7 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"xpos"					"c-105"
-		"ypos"					"150"
+		"ypos"					"325"
 		"wide"					"300"
 		"tall"					"300"
 	}
