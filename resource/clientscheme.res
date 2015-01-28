@@ -2116,8 +2116,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
-				"tall"		"7"
+				"name"		"ComfortaaLight10"
+				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -2127,8 +2127,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
-				"tall"		"8"
+				"name"		"ComfortaaLight12"
+				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -2138,8 +2138,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
-				"tall"		"11"
+				"name"		"ComfortaaLight16"
+				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -5374,6 +5374,7 @@ Scheme
 			{
 				"range" "0x0000 0xFFFF"
 			}
+		}
 		"7"
 		{
 			"font" "resource/fonts/Comfortaa-Bold.ttf"
