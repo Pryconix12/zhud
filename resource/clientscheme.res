@@ -2083,7 +2083,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Comfortaa Bold"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -2094,7 +2094,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Comfortaa Bold"
 				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
@@ -2105,7 +2105,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Comfortaa Bold"
 				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
@@ -2116,8 +2116,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"ComfortaaLight10"
-				"tall"		"10"
+				"name"		"Comfortaa Light"
+				"tall"		"7"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -2127,8 +2127,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"ComfortaaLight12"
-				"tall"		"12"
+				"name"		"Comfortaa Light"
+				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -2138,8 +2138,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"ComfortaaLight16"
-				"tall"		"14"
+				"name"		"Comfortaa Light"
+				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" 	"1"
