@@ -6,7 +6,7 @@
 	{	
 		"controlName"  "CExLabel"
 		"fieldName"     "CrossHairNormal"
-		"visible"    "0"
+		"visible"    "1"
 		"enabled"    "1"
 		"zpos"      "1"
 		"xpos"      "c-14"
@@ -15,7 +15,7 @@
 		"tall"      "24"
 		"font"      "CrossHairNormal"
 		"labelText"    "x"
-		"fgcolor"    "ZHUD_White" // rgbcolor value
+		"fgcolor"    "ZHUD_Buffed" // rgbcolor value
 		"textAlignment"  "center"
 	}
 	Crosshair
@@ -27,12 +27,12 @@
 		"visible_minmode"	"1"
 		"enabled_minmode"	"1"
 		"xpos"				"1"			//Play around with x and y until it's centered
-		"ypos"				"0"			//Not all crosshairs/resolutions have the same placement
+		"ypos"				"3"			//Not all crosshairs/resolutions have the same placement
 		"zpos"				"0"
 		"wide"				"f0"
 		"tall"				"f0"
 		"font"				"Crosshair"
-		"labelText"			"p"			//Refer to crosshairs.png for crosshairs
+		"labelText"			"t"			//Refer to crosshairs.png for crosshairs
 		"fgcolor"			"ZHUD_White" // rgbcolor value //92 206 255 255
 		"textAlignment"		"center"
 	}
@@ -1016,7 +1016,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c-100"	
-		"ypos"			"c100"	
+		"ypos"			"c50"	
 		"wide"			"250"
 		"tall"			"150"
 	}	

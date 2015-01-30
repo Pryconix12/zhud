@@ -93,7 +93,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"NumPipesLabel"
-			"xpos"			"48"
+			"xpos"			"45"
 			"ypos"			"18"
 			"zpos"			"2"
 			"wide"			"100"
@@ -112,10 +112,8 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"NumPipesLabelDropshadow"
-			"xpos"			"49"
-			"xpos_minmode"	"43"
+			"xpos"			"46"
 			"ypos"			"19"
-			"ypos_minmode"	"13"
 			"zpos"			"2"
 			"wide"			"100"
 			"tall"			"100"
@@ -167,7 +165,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"NumPipesLabel"
-			"xpos"			"48"
+			"xpos"			"45"
 			"ypos"			"18"
 			"zpos"			"2"
 			"wide"			"100"
@@ -186,7 +184,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"NumPipesLabelDropshadow"
-			"xpos"			"49"
+			"xpos"			"46"
 			"ypos"			"19"
 			"zpos"			"2"
 			"wide"			"100"

@@ -28,7 +28,7 @@
 			"textinsetx"				"-8"
 			"textinsety"				"-8"
 			"use_proportional_insets"	"1"
-			"font"						"SymbolS"
+			"font"						"Entypo"
 			"textAlignment"				"center"
 			"dulltext"					"0"
 			"brighttext"				"0"

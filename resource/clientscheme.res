@@ -3468,6 +3468,16 @@ Scheme
 				"outline"   "0"
 			}
 		}
+		
+		Entypo
+		{
+			"1"
+			{
+				"name"	"Entypo"
+				"tall"	"16"
+				"antialias"	"1"
+			}
+		}
 	}
 	
 	
@@ -5404,6 +5414,11 @@ Scheme
 		{
 			"font" "resource/fonts/Crosshairs.ttf"
 			"name" "Crosshairs Regular"
+		}
+		"13"
+		{
+			"font" "resource/fonts/Entypo.otf"
+			"name" "Entypo"
 		}
 	}	
 }
