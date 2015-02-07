@@ -123,7 +123,7 @@
 	{
 		"ControlName"		"CExButton"
 		"fieldName"		"ok"
-		"xpos"			"c-215"
+		"xpos"			"c105"
 		"ypos"			"c125"
 		"zpos"			"6"
 		"wide"			"150"

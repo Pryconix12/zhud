@@ -76,7 +76,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"ZHUD_Shadow"
+		"fillcolor"		"23 23 23 150"
 	}
 	MainMenuOverride
 	{
