@@ -6,7 +6,7 @@
 	{	
 		"controlName"  "CExLabel"
 		"fieldName"     "CrossHairNormal"
-		"visible"    "0"
+		"visible"    "1"
 		"enabled"    "1"
 		"zpos"      "1"
 		"xpos"      "c-14"
@@ -22,7 +22,7 @@
 	{
 		"controlName"		"CExLabel"			// Fog's Crosshairs
 		"fieldName"			"Crosshair"
-		"visible"			"1"
+		"visible"			"0"
 		"enabled"			"1"
 		"xpos"				"0"			//Play around with x and y until it's centered
 		"ypos"				"3"			//Not all crosshairs/resolutions have the same placement
