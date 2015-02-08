@@ -240,7 +240,6 @@
 		"fieldName"		"BlueLabelBG"
 		"xpos"			"c-228"
 		"ypos"			"c-13"
-		"ypos_minmode"		"r126"
         "zpos" "3"
 		"wide"			"228"
 		"tall"			"17"
