@@ -6,7 +6,7 @@
 	{	
 		"controlName"  "CExLabel"
 		"fieldName"     "CrossHairNormal"
-		"visible"    "1"
+		"visible"    "0"
 		"enabled"    "1"
 		"zpos"      "1"
 		"xpos"      "c-14"
@@ -22,17 +22,15 @@
 	{
 		"controlName"		"CExLabel"			// Fog's Crosshairs
 		"fieldName"			"Crosshair"
-		"visible"			"0"
+		"visible"			"1"
 		"enabled"			"1"
-		"visible_minmode"	"1"
-		"enabled_minmode"	"1"
-		"xpos"				"1"			//Play around with x and y until it's centered
+		"xpos"				"0"			//Play around with x and y until it's centered
 		"ypos"				"3"			//Not all crosshairs/resolutions have the same placement
 		"zpos"				"0"
 		"wide"				"f0"
 		"tall"				"f0"
 		"font"				"Crosshair"
-		"labelText"			"t"			//Refer to crosshairs.png for crosshairs
+		"labelText"			"8"			//Refer to crosshairs.png for crosshairs
 		"fgcolor"			"ZHUD_White" // rgbcolor value //92 206 255 255
 		"textAlignment"		"center"
 	}
@@ -593,7 +591,7 @@
 		"ypos"		"180"
 		"wide"		"500"
 		"tall"		"136"
-		"font"		"default"
+		"font"		"BebasNeue20"
 
 		"BgAlpha"	"0"
 
@@ -891,8 +889,8 @@
 		"fieldName"				"FreezePanel"
 		"visible"				"1"
 		"enabled"				"1"
-		"xpos"					"-5"
-		"ypos"					"0"
+		"xpos"					"0"
+		"ypos"					"-5"
 		"wide"					"f0"
 		"tall"					"480"
 	}
@@ -1120,10 +1118,11 @@
 		"fieldName"				"HudStopWatch"
 		"visible"				"1"
 		"enabled"				"1"
-		"xpos"					"c-160"
-		"ypos"					"5"
-		"wide"					"125"
-		"tall"					"55"
+		"xpos"					"0"
+		"ypos"					"0"
+		"zpos"					"0"
+		"wide"					"f0"
+		"tall"					"480"
 	}
 	
 	NotificationPanel

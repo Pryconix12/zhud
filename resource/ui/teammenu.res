@@ -277,17 +277,17 @@
 		"fillcolor"		"ZHUD_Shadow"
 	}
 	
-	"CancelButton" [$WIN32] 
+	"CancelButton"
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"CancelButton"
-		"xpos"			"0"
-		"ypos"			"r40"
-		"zpos"			"6"
+		"xpos"			"99999"
+		"ypos"			"99999"
+		"zpos"			"1"
 		"wide"			"0"
 		"tall"			"0"
 		"autoResize"	"0"
-		"pinCorner"		"2"
+		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"0"
 		"tabPosition"	"0"
@@ -297,7 +297,7 @@
 		"brighttext"	"0"
 		"paintbackground""0"
 		"command"		"cancelmenu"
-		"font"			"ComfortaaRegular15"
+		"font"			"ComfortaaRegular16"
 		"defaultFgColor_override" 	"ZHUD_White"
 		"armedFgColor_override"		"ZHUD_Buffed"
 		"depressedFgColor_override" "ZHUD_White"

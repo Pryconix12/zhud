@@ -69,8 +69,8 @@
 		"enabled"		"1"
 		"labelText"		"%gamemode%"
 		"textAlignment"	"west"
-		"font"			"ComfortaaLight24"
-		"fgcolor"		"Gray"
+		"font"			"BebasNeue24"
+		"fgcolor"		"ZHUD_White"
 	}	
 	
 	"MapInfoText"
