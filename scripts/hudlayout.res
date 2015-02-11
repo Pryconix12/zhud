@@ -2,11 +2,11 @@
 {
 	//Crosshair
 	
-	CrossHairNormal 				// Seeker's Crosshair
+	CrossHairNormal // Seeker's Crosshair //
 	{	
 		"controlName"  "CExLabel"
 		"fieldName"     "CrossHairNormal"
-		"visible"    "1"
+		"visible"    "0"
 		"enabled"    "1"
 		"zpos"      "1"
 		"xpos"      "c-14"
@@ -18,9 +18,9 @@
 		"fgcolor"    "ZHUD_Buffed" // rgbcolor value
 		"textAlignment"  "center"
 	}
-	Crosshair
+	Crosshair // Fog's Crosshairs //
 	{
-		"controlName"		"CExLabel"			// Fog's Crosshairs
+		"controlName"		"CExLabel"
 		"fieldName"			"Crosshair"
 		"visible"			"0"
 		"enabled"			"1"
@@ -33,6 +33,38 @@
 		"labelText"			"8"			//Refer to crosshairs.png for crosshairs
 		"fgcolor"			"ZHUD_White" // rgbcolor value //92 206 255 255
 		"textAlignment"		"center"
+	}
+	CrossHairKonrWings // Konr Wings //
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	"CrossHairKonrWings"
+		"visible"	"0"
+		"enabled"	"1"
+		"zpos"	"2"
+		"xpos"	"c-8"
+		"ypos"	"c-24"
+		"wide"	"46"
+		"tall"	"49"
+		"font"	"CrossHairKonrWings"
+		"labelText"	"Z"
+		"textAlignment"	"west"
+		"fgcolor"	"ZHUD_White"
+	}
+	CrossHairExtra
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	"CrossHairExtra"
+		"visible"	"0"
+		"enabled"	"1"
+		"zpos"	"2"
+		"xpos"	"c-9"
+		"ypos"	"c-25"
+		"wide"	"46"
+		"tall"	"49"
+		"font"	"CrossHairExtra"
+		"labelText"	"t"
+		"textAlignment"	"west"
+		"fgcolor"	"ZHUD_White"
 	}
 	
 	

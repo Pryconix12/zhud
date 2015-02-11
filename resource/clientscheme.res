@@ -3478,6 +3478,28 @@ Scheme
 				"antialias"	"1"
 			}
 		}
+		
+		"CrossHairKonrWings"
+		{
+			"1"
+			{
+				"name"	"Garm3nFont"
+				"tall"	"12"
+				"weight"	"0"
+				"antialias"	"1"
+			}
+		}
+		
+		CrossHairExtra
+		{
+			"1"
+			{
+				"name"  "xhairs"
+				"tall"  "14"
+				"weight" "0"
+				"antialias" "1"
+			}
+		}
 	}
 	
 	
@@ -5419,6 +5441,16 @@ Scheme
 		{
 			"font" "resource/fonts/Entypo.otf"
 			"name" "Entypo"
+		}
+		"14"
+		{
+			"font" "resource/Garm3nFont.ttf"
+			"name" "Garm3nFont"
+		}
+		"15"
+		{
+			"font" "resource/xhairs.otf"
+			"name" "xhairs"
 		}
 	}	
 }
