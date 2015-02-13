@@ -8,10 +8,8 @@
 		"ypos"			"6"
 		"zpos"			"0"
 		"wide"			"0"
-		"wide_minmode"	"56"
 		"tall"			"0"
 		"visible"		"0"
-		"visible_minmode"	"0"
 		"enabled"		"0"
 		"image"			"../hud/misc_ammo_area_blue"
 		"scaleImage"	"0"	
@@ -25,8 +23,8 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ChargeLabel"
-		"xpos"					"80"
-		"ypos"					"5"
+		"xpos"					"75"
+		"ypos"					"55"
 		"zpos"					"2"
 		"wide"					"41"
 		"tall"					"15"
@@ -39,7 +37,7 @@
 		"labelText"				"#TF_Charge"
 		"textAlignment"			"center"
 		"fgcolor_override"		"ZHUD_White"
-		"font"					"TFFontSmall"
+		"font"					"ComfortaaLight10"
 	}
 
 	"ChargeMeter"
@@ -47,18 +45,17 @@
 		"ControlName"			"ContinuousProgressBar"
 		"fieldName"				"ChargeMeter"
 		"font"					"Default"
-		"xpos"					"0"
-		"ypos"					"0"
+		"xpos"					"35"
+		"ypos"					"50"
 		"zpos"					"2"
-		"wide"					"50"
+		"wide"					"117"
 		"tall"					"2"				
 		"autoResize"			"0"
 		"pinCorner"				"0"
 		"visible"				"1"
 		"enabled"				"1"
 		"textAlignment"			"Left"
-		"bgcolor_override"		"ZHUD_White"
-		
+		"bgcolor_override"		"Gray"
 	}				
 		
 	"PipesPresentPanel"
