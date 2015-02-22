@@ -260,7 +260,7 @@
 		"defaultFgColor_override" 	"ZHUD_White"
 		"armedFgColor_override"		"ZHUD_Buffed"
 		"depressedFgColor_override" "ZHUD_White"
-		"selectedFgColor_override" 	""ZHUD_Buffed"
+		"selectedFgColor_override" 	"ZHUD_Buffed"
 	}
 	
 	"teambuttonBG"

@@ -12,3 +12,4 @@
 		"delta_item_font"		"BebasNeue26"
 		"delta_item_font_big"	"BebasNeue32"
 	}
+}
