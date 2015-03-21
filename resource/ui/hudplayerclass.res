@@ -233,11 +233,11 @@
 			{
 				"fov"			"20"
 				"angles_x"		"-5"
-				"angles_y"		"178"
+				"angles_y"		"250"
 				"angles_z"		"0"
 				"origin_x"		"150"
 				"origin_y"		"-5"
-				"origin_z"		"-96"
+				"origin_z"		"-90"
 			}
 			"Heavy"
 			{
