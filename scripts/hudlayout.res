@@ -1,6 +1,6 @@
 "Resource/HudLayout.res"
 {
-	//Crosshair
+	/////////////////////////////////// CROSSHAIR EDITING STARTS HERE ////////////////////////////////////////
 	
 	CrossHairNormal // Seeker's Crosshair //
 	{	
@@ -15,7 +15,7 @@
 		"tall"      "24"
 		"font"      "CrossHairNormal"
 		"labelText"    "x"
-		"fgcolor"    "ZHUD_Buffed" // rgbcolor value
+		"fgcolor"    "ZHUD_White" // rgbcolor value
 		"textAlignment"  "center"
 	}
 	Crosshair // Fog's Crosshairs //
@@ -31,7 +31,7 @@
 		"tall"				"f0"
 		"font"				"Crosshair"
 		"labelText"			"8"			//Refer to crosshairs.png for crosshairs
-		"fgcolor"			"ZHUD_White" // rgbcolor value //92 206 255 255
+		"fgcolor"			"ZHUD_White" // rgbcolor value
 		"textAlignment"		"center"
 	}
 	CrossHairKonrWings // Konr Wings //
